@@ -1,10 +1,10 @@
 # Bot-Python
-Bot em Python para gerar um relatório diário no WhatsApp dos meus Pais sobre nossas pequenas empresas.
+Python Bot to generate a daily report on WhatsApp for my parents about our small businesses.
 
-- Onde consiste em entrar no nosso software de reservas e baixar as planilhas do excel, ler elas e enviar os dados para os meus pais e a moça da limpeza.
+- It consists of accessing our booking software, downloading the Excel spreadsheets, reading them, and sending the data to my parents and the cleaning lady.
 
-- O arquivo é apenas uma copia então eu escondi o login e a senha '-'
+- The file is just a copy, so I’ve hidden the login and password. '-'
 
-- O arquivo está bem identado e com alguns comentários para ajudar ao entendimento.
+- The file is well-indented and includes some comments to help with understanding.
 
 ![image](https://user-images.githubusercontent.com/99772255/230439619-2a18dd05-b22b-4c88-a483-3c65ce750a57.png)
